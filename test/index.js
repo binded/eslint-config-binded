@@ -8,5 +8,5 @@ const obj2 = {
 const {
   mediaType,
   mediaSubtype,
-  ...rest,
+  ...rest
 } = obj2
