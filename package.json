@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-blockai",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Base ESLint configuration for Blockai JavaScript projects",
   "main": "index.js",
   "scripts": {
