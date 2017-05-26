@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-blockai",
+  "name": "eslint-config-binded",
   "version": "1.0.3",
-  "description": "Base ESLint configuration for Blockai JavaScript projects",
+  "description": "Base ESLint configuration for Binded JavaScript projects",
   "main": "index.js",
   "scripts": {
     "lint": "eslint test/*",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blockai/eslint-config-blockai.git"
+    "url": "git+https://github.com/binded/eslint-config-binded.git"
   },
   "keywords": [
     "eslint",
@@ -19,9 +19,9 @@
   "author": "Olivier Lalonde <olalonde@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blockai/eslint-config-blockai/issues"
+    "url": "https://github.com/binded/eslint-config-binded/issues"
   },
-  "homepage": "https://github.com/blockai/eslint-config-blockai#readme",
+  "homepage": "https://github.com/binded/eslint-config-binded#readme",
   "dependencies": {
     "babel-eslint": "^6.1.2",
     "eslint": "^3.8.1",
