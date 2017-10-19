@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-binded",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Base ESLint configuration for Binded JavaScript projects",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/binded/eslint-config-binded#readme",
   "dependencies": {
-    "babel-eslint": "^6.1.2",
+    "babel-eslint": "^8.0.1",
     "eslint": "^3.8.1",
     "eslint-config-airbnb-base": "^5.0.3",
     "eslint-plugin-import": "^1.16.0"
